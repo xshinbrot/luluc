@@ -6,7 +6,7 @@ to setup
   clear-all
   setup-patches
   setup-turtles
-  set max_forest 50 ; represents tree cover - 0=bare
+  set max_forest 50 ; represents tree cover - 0=bare land
   reset-ticks
 end
 
